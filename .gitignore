@@ -1,0 +1,25 @@
+node_modules
+.next
+out
+build
+dist
+
+.env
+.env.local
+.env*.local
+
+*.log
+npm-debug.log*
+
+.DS_Store
+*.pem
+
+.vercel
+
+# Supabase
+supabase/.branches
+supabase/.temp
+
+coverage
+playwright-report
+test-results

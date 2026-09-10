@@ -1,0 +1,11 @@
+{
+  "name": "SolenChat — семейный мессенджер",
+  "short_name": "SolenChat",
+  "description": "Приватное пространство для общения вашей семьи",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0E1621",
+  "theme_color": "#3390EC",
+  "orientation": "portrait-primary",
+  "icons": []
+}
